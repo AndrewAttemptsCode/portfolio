@@ -45,7 +45,7 @@ const projects = {
         frontend: ["HTML", "CSS", "JavaScript", "React", "Styled Components"],
         backend: [],
         buildTools: ["TypeScript", "Vite"],
-        testing: ["Vitest"],
+        testing: ["Vitest", "Playwright"],
         versionControl: ["Git", "GitHub"],
         hosting: ["Cloudflare Pages"],
         tools: ["VS Code"],
