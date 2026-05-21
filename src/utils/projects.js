@@ -39,7 +39,8 @@ const projects = {
       description: [
         "Storm Lifts is a web-based workout application built to practice and showcase front-end development skills — including React, TypeScript, accessibility, testing, and responsive design.",
         "The idea came from my own workouts: I kept losing track of which set I was on during each exercise. This app solves that problem by tracking everything for you — you can create exercises, build workouts, and run them using a built-in timer.",
-        "The app uses LocalStorage to store all workout data, providing a convenient offline experience with no need for an internet connection after the app is loaded."
+        "The app uses LocalStorage to store all workout data, providing a convenient offline experience with no need for an internet connection after the app is loaded.",
+        "To ensure reliability and prevent regressions, the project is covered with end-to-end QA automation using Playwright. This includes testing core user flows such as workout creation, exercise tracking, timers, and simulating real user interactions across different scenarios."
       ],
       techstack: {
         frontend: ["HTML", "CSS", "JavaScript", "React", "Styled Components"],
