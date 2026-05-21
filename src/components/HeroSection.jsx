@@ -42,11 +42,11 @@ const HeroSection = () => {
       <ResponsiveContainer>
         <h2>Andrew Travis</h2>
         <p>
-          <span>Frontend-Focused</span>
-          <span>Full-Stack Web Developer</span>
+          <span>Frontend Developer</span>
+          <span>QA Automation (Playwright)</span>
         </p>
         <p>Manchester, England</p>
-        <p>React • TypeScript • JavaScript • Node.js • PostgreSQL • UI/UX • Accessibility</p>
+        <p>React • TypeScript • JavaScript • Playwright • UI/UX • Accessibility</p>
         <SocialsLinks />
       </ResponsiveContainer>
     </HeroStyle>
