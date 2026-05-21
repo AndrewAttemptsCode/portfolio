@@ -207,7 +207,7 @@ const projects = {
         frontend: ["HTML", "CSS", "JavaScript", "React", "Styled Components", "Vite"],
         backend: ["Node.js", "Express", "PostgreSQL", "Prisma"],
         buildTools: [],
-        testing: ["Jest", "SuperTest"],
+        testing: ["Jest"],
         versionControl: ["Git", "GitHub"],
         hosting: ["Railway", "Cloudflare Pages"],
         tools: ["VS Code", "Prettier"],
