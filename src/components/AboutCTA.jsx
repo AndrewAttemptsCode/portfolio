@@ -44,8 +44,8 @@ const AboutCTA = () => {
   return (
     <AboutStyle>
       <ResponsiveContainer>
-        <h2>Risk Analyst turned Web Developer</h2>
-        <p>From data analysis to React development - building performant, user-focused web applications.</p>
+        <h2>Frontend Developer focused on Quality & Testing</h2>
+        <p>Building React applications with a focus on performance, usability, and reliability through thoughtful design and automated testing.</p>
         <Link to={"about"}>Learn more</Link>
       </ResponsiveContainer>
     </AboutStyle>
