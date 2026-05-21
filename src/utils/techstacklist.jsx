@@ -1,3 +1,4 @@
+import { Icon } from "@iconify-icon/react";
 import { FaCss3Alt, FaGitAlt, FaGithub, FaHtml5, FaNodeJs, FaReact } from "react-icons/fa";
 import { ImEmbed2 } from "react-icons/im";
 import { IoLogoJavascript } from "react-icons/io5";
@@ -100,9 +101,9 @@ const techstacklist = {
       icon: <SiVitest />
     },
     {
-      title: "SuperTest",
-      url: "https://github.com/visionmedia/supertest",
-      icon: <PiTestTube />
+      title: "Playwright",
+      url: "https://playwright.dev/",
+      icon: <Icon icon="devicon-plain:playwright" width="100%" height="100%"/>
     }
   ],
   versionControl: [
